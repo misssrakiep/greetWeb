@@ -1,0 +1,59 @@
+body	{
+  background:url("https://s-media-cache-ak0.pinimg.com/originals/14/2c/0a/142c0a1142a401ba15e261a993a13221.jpg") center no-repeat; background-attachment:fixed;
+}
+.top{
+background-image: url("http://www.bannersdesigns.com/wp-content/uploads/2016/05/church-welcome-banners.jpg");
+}
+
+.hi{
+    background-color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+#display{
+  font-family: Purisa, fantasy;
+  font-size: 75px;
+   text-align: center;
+   font-weight: bold;
+}
+
+.h3{
+  font-family: Purisa, fantasy;
+  font-size: 40px;
+   text-align: center;
+   font-weight: bold;
+}
+label{
+  font-family: Purisa, fantasy;
+  font-size: 40px;
+   text-align: center;
+}
+#counter{
+  font-family: Purisa, fantasy;
+  font-size: 40px;
+   text-align: center;
+   font-weight: bold;
+}
+h3{
+  font-family: Purisa, fantasy;
+  font-size: 20px;
+   text-align: center;
+   font-weight: bold;
+}
+#language{
+  font-family: Purisa, fantasy;
+  font-size: 15px;
+   text-align: center;
+   font-weight: bold;
+}
+#output{
+  font-family: Purisa, fantasy;
+  font-size: 15px;
+   text-align: center;
+   font-weight: bold;
+
+}
